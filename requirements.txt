@@ -4,5 +4,5 @@ pydub==0.25.1
 SpeechRecognition==3.8.1
 langdetect==1.0.9
 ffmpeg-python==0.2.0
-scikit-learn==1.1.0  # Updated to avoid distutils error
+scikit-learn==1.1.2  # Update to avoid distutils error
 numpy>=1.23.0  # Updated numpy version
