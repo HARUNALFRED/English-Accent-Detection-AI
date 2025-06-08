@@ -5,4 +5,4 @@ SpeechRecognition==3.8.1
 langdetect==1.0.9
 ffmpeg-python==0.2.0
 scikit-learn==1.0.2
-numpy==1.22.0
+numpy>=1.23.0  # Updated numpy version
